@@ -39,7 +39,7 @@ companied by 512 GB of DDR4 memory, the server runs on
 Ubuntu 22.04.
 
 We use `13` graphs in *Matrix Market (.mtx)* file format from the *SuiteSparse Matrix Collection* and converted them in the CSR format (.txt) as our input dataset. These must be placed in the `~/csr`
-directory **before running** the experiments. Thereafter, we create the batches of different sizes, which must be placed in the `~/batches` directory, and scratch MIS is calculated for the graph using Luby's algorithm, which is stored .txt files in the `~/mis` directory.
+directory **before running** the experiments. Thereafter, we create the batches of different sizes, which must be placed in the `~/batches` directory, and scratch MIS is calculated for the graph using Luby's algorithm, which is stored as `.txt` files in the `~/mis` directory.
 
 ## Compilation
 
