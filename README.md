@@ -67,3 +67,17 @@ Example:
 ```
 
 This command runs the PDMI-TVBL and PDMD-TVBL algorithms on the `Kronecker` graph, using 64 threads, with 10 batches each for deletion and insertion operations.
+
+## Citation  
+If you find our work useful, please consider citing:  
+
+**Fast Maximal Independent Sets on Dynamic Graphs**, Prajjwal Nijhara, Aditya Trivedi, Dip Sankar Banerjee, *Proceedings of Euromicro PDP 2025*
+
+
+```bibtex
+@inproceedings{Nijhara2025FastMIS,
+  author    = {Prajjwal Nijhara and Aditya Trivedi and Dip Sankar Banerjee},
+  title     = {Fast Maximal Independent Sets on Dynamic Graphs},
+  booktitle = {Proceedings of Euromicro PDP},
+  year      = {2025}
+}
